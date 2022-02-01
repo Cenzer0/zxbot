@@ -7,36 +7,36 @@
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan API KEY di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "14718017",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di web my.telegram.org",
+      "description": "436da5758388fd68e648cf6375371bed",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Buat Bot di t.me/botfather Masukan BOT tokennya disini",
+      "description": "5061482136:AAGjeKHhfz07-7LF5lK4io2nX17ovpzIgg4",
       "required": false
     },
     "BOT_USERNAME": {
-      "description": "Buat Bot di t.me/botfather Masukan BOT Usernamenya pake @",
+      "description": "@Zoxv_bot",
       "required": false
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
+      "description": "1BVtsOG4Bu4_RGasCt9zeTBb2yTxPyeDWYHvWsYT9a619eu7tjG6bjvaA9dVNHdsESR-XNQorMf0iNze4g-dFLExJGl2LB6iSRhcn8ufFt3aE5Bruho3P6NmR5u2YHe5lBrjAjK57Y4rQ3FXlZa5bJN2OdOcMwCuEpXVutxpeiOfLsmk83Pl5U-pLcNJohWdqSqwtvERDe8PDIZPtu_kEEFmgQAK7QxWYmmC0Bm2fH7LpvJtbFg9lr1L97pymLxg62K6Bs_C9sF7PBL11L4aRnLo-MTNCEugxNz9Lx1nR0uEePaiwrFPIuz0t9wU9f_-UUnfGLfzL75_6He8E5gp1lrWbcB0Oyg0=",
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
+      "description": "czouserbot",
       "required": true
     },
     "HEROKU_API_KEY": {
-      "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
+      "description": "ff1efcea-0ad3-477e-bbf1-9b0b1c17e9c2",
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Buatlah grup telegram publik lalu masukan @MissRose_bot ketik /id, masukan id grup nya disini. contoh: -1001473548xxx",
-      "value": "Isi id grup mu wajib dengan awalan -100",
+      "description": "-733555864",
+      "value": "-100733555864",
       "required": true
     }
   },
